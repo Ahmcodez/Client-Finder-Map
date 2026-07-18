@@ -94,7 +94,7 @@ Update `server/.env`:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/client-finder-map
+MONGO_URI=mongodb-connection-string/client-finder-map
 JWT_SECRET=replace-with-a-secure-secret
 SERP_API_KEY=your-serpapi-key
 ```
