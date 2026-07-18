@@ -1,0 +1,21 @@
+# Dependencies (Never commit this folder, it is too large)
+node_modules/
+
+# Local Environment Files (Contains your secret API keys and passwords)
+.env
+.env.local
+.env.*.local
+
+# Production Build Output (Generated automatically when you build the app)
+dist/
+build/
+
+# Vite / Build Tool Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# System Files (Operating system specific junk files)
+.DS_Store
+Thumbs.db
