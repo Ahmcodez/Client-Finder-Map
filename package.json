@@ -1,0 +1,13 @@
+{
+  "name": "client-finder-map-for-developers",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "client:dev": "npm run dev --prefix client",
+    "server:dev": "npm run dev --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

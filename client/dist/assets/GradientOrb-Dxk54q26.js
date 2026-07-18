@@ -1,0 +1,1 @@
+import{j as a,m as e}from"./index-BNvDcs7o.js";function i({className:t=""}){return a.jsx(e.div,{className:`absolute rounded-full blur-3xl ${t}`,animate:{scale:[1,1.1,1],opacity:[.4,.65,.4]},transition:{duration:8,repeat:1/0,ease:"easeInOut"}})}export{i as G};

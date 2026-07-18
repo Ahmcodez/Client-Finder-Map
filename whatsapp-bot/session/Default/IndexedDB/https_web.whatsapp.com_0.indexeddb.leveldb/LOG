@@ -1,0 +1,21 @@
+2026/03/26-01:06:28.213 3edc Reusing MANIFEST C:\Users\Engineer Computers\Desktop\codex\Clientfinder\whatsapp-bot\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/26-01:06:28.214 3edc Recovering log #36
+2026/03/26-01:06:28.339 3edc Reusing old log C:\Users\Engineer Computers\Desktop\codex\Clientfinder\whatsapp-bot\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2026/03/26-01:06:33.946 3edc Level-0 table #41: started
+2026/03/26-01:06:34.078 3edc Level-0 table #41: 1276065 bytes OK
+2026/03/26-01:06:34.082 3edc Delete type=0 #36
+2026/03/26-01:06:34.459 3edc Compacting 1@1 + 1@2 files
+2026/03/26-01:06:35.296 3edc Generated table #42@1: 48237 keys, 1890924 bytes
+2026/03/26-01:06:35.296 3edc Compacted 1@1 + 1@2 files => 1890924 bytes
+2026/03/26-01:06:35.298 3edc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/26-01:06:35.299 3edc Delete type=2 #38
+2026/03/26-01:06:35.299 3edc Delete type=2 #41
+2026/03/26-01:12:31.089 30a8 Level-0 table #44: started
+2026/03/26-01:12:31.218 30a8 Level-0 table #44: 1333329 bytes OK
+2026/03/26-01:12:31.227 30a8 Delete type=0 #40
+2026/03/26-01:12:35.754 30a8 Compacting 1@1 + 1@2 files
+2026/03/26-01:12:36.043 30a8 Generated table #45@1: 52515 keys, 2048576 bytes
+2026/03/26-01:12:36.043 30a8 Compacted 1@1 + 1@2 files => 2048576 bytes
+2026/03/26-01:12:36.045 30a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/26-01:12:36.046 30a8 Delete type=2 #42
+2026/03/26-01:12:36.046 30a8 Delete type=2 #44
