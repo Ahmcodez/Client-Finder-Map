@@ -19,3 +19,12 @@ yarn-error.log*
 # System Files (Operating system specific junk files)
 .DS_Store
 Thumbs.db
+session/
+
+Cache/
+Cache_Data/
+BrowserMetrics/
+Crashpad/
+blob_storage/
+component_crx_cache/
+log.csv
