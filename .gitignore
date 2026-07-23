@@ -21,3 +21,4 @@ yarn-error.log*
 Thumbs.db
 whatsapp-bot/session/
 whatsapp-bot/logs.csv
+server/.env
